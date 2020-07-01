@@ -6,3 +6,5 @@ Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de 
 - ccn_rule.sbatch
 - Readme.md
 - output_ccnl_rule.txt
+
+## Ejecución del programa:
