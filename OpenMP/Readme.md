@@ -1,4 +1,4 @@
-# Readme.txt
+# OpenMP
 
 Contiene los archivos de la entrega 1 de la primera evaluación:
   
