@@ -1,8 +1,8 @@
 # OpenMP
 
-Contiene los archivos de la entrega 1 de la primera evaluación:
+Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de la evaluación 1:
 
 - omp_ccn_rule.c
 - ccn_rule.sbatch
-- ReadmeEjecucion.txt
+- Readme.md
 - output_ccnl_rule.txt
