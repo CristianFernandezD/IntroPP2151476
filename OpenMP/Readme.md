@@ -14,4 +14,4 @@ En Guane:
 3. Observar la salida con el comando less output_ccn_rule_%j.output, donde %j es el id de la tarea.
 4. También se puede observar los errores con el comando less error_ccn_rule_%j.error, donde igualmente %j es el id de la tarea.
 
-Nota: En local no fue posible ejecutarlo dado a que la arquitectura del procesador esta diseñada para soportar un sólo núcleo y un sólo hilo.
+Nota: En local no fue posible ejecutarlo dado a que la arquitectura del procesador esta diseñada para soportar un unico núcleo y un unico hilo.
