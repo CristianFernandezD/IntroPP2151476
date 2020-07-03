@@ -15,8 +15,3 @@ En Guane:
 4. También se puede observar los errores con el comando less error_ccn_rule_%j.err, donde igualmente %j es el id de la tarea.
 
 Nota: En local no fue posible ejecutarlo dado a que la arquitectura del procesador esta diseñada para soportar un unico núcleo y un unico hilo.
-
-## Ejecución de la modificación de programa original:
-1. Usar el comando gcc -lm ccn_rule_mod.c -o ccn_rule_mod. Se debe crear el ejecutable ccn_rule_mod.
-2. Usar el comando sbatch ccn_rule_mod.sbatch.
-3. Usar less ccn_rule_mod_%j.output y less ccn_rule_mod_%j.err para observar la salida y los errores respectivamente.
