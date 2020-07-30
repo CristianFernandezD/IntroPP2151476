@@ -1,6 +1,6 @@
 # IntroPP2151476
 
-En este repositorio, se ha creado la carpeta OpenMP, que contiene los archivos que corresponden a la solución de la primera evaluacion de la asignatura de Introducción a la Programación Paralela del semestre 2020-I.
+En este repositorio, se han creado las carpetas OpenMP y MPI, que contienen los archivos que corresponden a las soluciones de la primera y segunda evaluacion respectivamente, de la asignatura de Introducción a la Programación Paralela del semestre 2020-I.
 
 Universidad Industrial de Santander.
 
