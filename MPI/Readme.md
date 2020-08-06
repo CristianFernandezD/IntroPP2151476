@@ -1,11 +1,12 @@
-# OpenMP
+# MPI
 
-Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de la evaluación 1:
+Dentro de la carpeta, se encuentran localizados los 5 archivos de la entrega de la evaluación 2:
 
-- omp_ccn_rule.c
-- ccn_rule.sbatch
+- mpi_ccn_rule.c
+- ccn_rule_mpi.sbatch
 - Readme.md
 - output_ccn_rule.txt
+- Comparacion_Tiempos.txt
 
 ## Ejecución del programa:
 En Guane:
