@@ -1,4 +1,4 @@
 ccn_rule Normal => Tiempo: 0.591000 (Prueba en local)
 ccn_rule OpenMP => Tiempo: 0.080000
-ccn_rule MPI    => Tiempo: 0.070000 - 0.080000
+ccn_rule MPI    => Tiempo: 0.070000
 
